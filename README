@@ -1,0 +1,5 @@
+se ejecuta primero el sisitema de login, 
+no hay registros de una base de datos ya que el login funciona como general para un juego, 
+en este caso esta al lado del cliente y no del servidor  como tal.
+
+
